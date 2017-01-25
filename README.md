@@ -1,7 +1,7 @@
 # Software Development Philosophy
 A proven methodology for lean software development.
 
-# Unix Philosophy
+# UNIX PHILOSOPHY
 More of the Unix philosophy was implied not by what these elders said but by what they did and the example Unix itself set. 
 Looking at the whole, we can abstract the following ideas:
 
